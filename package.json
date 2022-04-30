@@ -1,0 +1,11 @@
+{
+  "name": "sc_todo_list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "pedro lucinda",
+  "license": "MIT",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.8",
+    "dotenv": "^16.0.0"
+  }
+}
